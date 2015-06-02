@@ -1,0 +1,12 @@
+.content{
+    box-sizing: border-box;
+    display: flex;
+}
+.text{
+    color: blue;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.pic{
+    width: 100%;
+}
